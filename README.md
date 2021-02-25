@@ -5,7 +5,7 @@
 - Go to [Mongodb's website](https://mongodb.com)
 - Click on [Sign in](https://account.mongodb.com/account/login)
 - Click on login with google
-![](https://imgur.com/a/xDZ1mjj)
+- ![Mongodb](https://imgur.com/a/xDZ1mjj)
 
 - Then create an organisation
 - Then create a project 
