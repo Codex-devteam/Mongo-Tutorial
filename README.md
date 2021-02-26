@@ -19,7 +19,7 @@
 - Get the url
 - Replace username and password with the password and username that you added in the db access
 - Replace db name with the db name that added while creating collection
-- Then you go your url
+- Then you get your url
 
 ## How to use mongo db
 
